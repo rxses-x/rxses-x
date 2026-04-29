@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rxses-x/rxses-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Rxses 👋
+# Hi, I'm Sébastien 👋
 
 Frontend-focused Junior Web Developer based in Europe.
 
@@ -93,7 +91,7 @@ Main subjects studied:
 
 ## 📫 Contact
 
-- LinkedIn: *(www.linkedin.com/in/cadet-sébastien-98760a148)*
+- LinkedIn: *(www.linkedin.com/in/cadet-sebastien-dev)*
 - Email: *(roses.x@outlook.com)*
 
 ---
